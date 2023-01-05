@@ -2,11 +2,12 @@
 
 Summary of this Project-
 
-Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
+Airbnb is an online marketplace that connects people who wish to rent out their homes with people who need to stay in that area. It now serves over 100,000 cities and 220 countries globally. It's a way for hosts to earn money while protecting their property from potential damage. However, it is a perilous venture that guests should avoid.
 
-For this project we are analyzing Airbnb’s New York City(NYC) data of 2019. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
+We are evaluating Airbnb's 2019 New York City (NYC) data for this research. Not only is New York City the most famous city in the world, but it is also the top global destination for visitors lured to its museums, entertainment, restaurants, and commerce. According to the Office of the New York State Comptroller, 66.6 million people visited New York City in 2019.
 
-Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and have come up with interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team and technical team of Airbnb.
+
+Analysis of data from thousands of listings provided by Airbnb is a critical component for the company. Our primary goal is to identify the essential metrics that drive property listings on the site. We will use basic exploratory data analysis (EDA) tools to examine and display the dataset from Airbnb in NYC. We discovered the distribution of each Airbnb listing depending on its location, as well as its price range, room type, listing name, and other relevant criteria. We examined this dataset from several perspectives and discovered some intriguing findings. This can aid Airbnb's marketing, finance, and technical teams in making strategic data-driven decisions.
 ![image](https://user-images.githubusercontent.com/116347910/210866516-b3aa821c-6b85-42eb-b596-d1500449a650.png)
 
 
