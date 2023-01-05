@@ -12,18 +12,18 @@ Data analysis on thousands of listings provided through Airbnb is a crucial fact
 
 PROJECT APPLICATION:
 
-Data Wrangling – Handled Null Values, Created new columns of day month years 	
+1) Data Wrangling – Handled Null Values, Created new columns of day month years 	
 
-Plot Distribution of numeric features
+2) Plot Distribution of numeric features
 
-Plot correlation matrix
+3) Plot correlation matrix
 
-Plot location, analysis by variation of price, reviews and availabilities
+4) Plot location, analysis by variation of price, reviews and availabilities
 
-Analysis against Neighborhood Group
+5) Analysis against Neighborhood Group
 
-Analysis against occupancy
+6) Analysis against occupancy
 
-Analysis against reviews
+7) Analysis against reviews
 
 Analysis against minimum nights to stay
