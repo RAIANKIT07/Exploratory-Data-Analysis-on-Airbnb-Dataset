@@ -8,7 +8,8 @@ We are evaluating Airbnb's 2019 New York City (NYC) data for this research. Not 
 
 
 Analysis of data from thousands of listings provided by Airbnb is a critical component for the company. Our primary goal is to identify the essential metrics that drive property listings on the site. We will use basic exploratory data analysis (EDA) tools to examine and display the dataset from Airbnb in NYC. We discovered the distribution of each Airbnb listing depending on its location, as well as its price range, room type, listing name, and other relevant criteria. We examined this dataset from several perspectives and discovered some intriguing findings. This can aid Airbnb's marketing, finance, and technical teams in making strategic data-driven decisions.
-![image](https://user-images.githubusercontent.com/116347910/210866516-b3aa821c-6b85-42eb-b596-d1500449a650.png)
+![image](https://user-images.githubusercontent.com/116347910/210867446-37f3593f-9bc9-442c-a153-6ba8c615133b.png)
+
 
 
 PROJECT APPLICATION:
